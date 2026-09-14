@@ -16,7 +16,7 @@
 
 GrooveBox is a free, open-source local music player for Android. No sign-in, no ads, no tracking, no internet connection required — just your own music library, played at its best, wrapped in a state-of-the-art frosted-glass UI with a 10-band equalizer, real-time visualizer, and deep customization.
 
-<!-- ![GrooveBox Android walkthrough](docs/android-demo.gif) -->
+![GrooveBox Android walkthrough](docs/android-demo.gif)
 
 ## Features
 
@@ -34,13 +34,10 @@ GrooveBox is a free, open-source local music player for Android. No sign-in, no 
 
 ## Screenshots
 
-<!--
-![Home](docs/screenshot-home.png)
-![Themes](docs/screenshot-themes.png)
-![Equalizer](docs/screenshot-eq.png)
-![Full player](docs/screenshot-player.png)
--->
-*(coming soon)*
+| | |
+|---|---|
+| ![Home](docs/screenshot-home.png) | ![Full player with visualizer](docs/screenshot-player.png) |
+| ![Themes](docs/screenshot-themes.png) | ![Equalizer](docs/screenshot-eq.png) |
 
 ## Download
 
