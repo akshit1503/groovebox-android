@@ -3,9 +3,6 @@
   <h1>GrooveBox for Android</h1>
   <p><strong>Your music. No account. No ads. No internet required.</strong></p>
   <p>
-    <a href="https://github.com/akshit1503/groovebox-android/releases/latest">
-      <img src="https://img.shields.io/github/v/release/akshit1503/groovebox-android?style=flat-square&color=a78bfa&label=Latest Release">
-    </a>
     <img src="https://img.shields.io/badge/platform-Android%208.0%2B-3ddc84?style=flat-square">
     <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square">
     <img src="https://img.shields.io/badge/price-Free%20Forever-pink?style=flat-square&color=f472b6">
